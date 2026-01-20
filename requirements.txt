@@ -1,1 +1,6 @@
-
+numpy
+pandas
+scikit-learn
+xgboost
+pyswarm
+joblib
